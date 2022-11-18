@@ -1,11 +1,11 @@
-![Design Patterns For All]
+[Design Patterns For All]
 
 ***
 
 <p align="center">
 🎉 Ultra-simplified explanation to design patterns! 🎉
 <br>
-...demonstrated with PEP8 compliant python.
+...demonstrated with compliant python.
 </p>
 <p align="center">
 A topic that can easily make anyone's mind wobble. Here I try to make them stick in to our minds by explaining them in the <i>simplest</i> way possible, while showing best practices.
